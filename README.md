@@ -1,4 +1,4 @@
-🌾 AgroFlow – Transparent Agri Supply Chain Management (MERN Stack)
+🌾 AgroFlow – Transparent Agri Supply Chain Management
 A full-stack solution connecting farmers, transporters, retailers, and consumers for a traceable, transparent, and efficient agricultural supply chain.
 
 Introduction
@@ -7,9 +7,11 @@ In traditional agricultural systems, inefficiencies, lack of traceability, and d
 Built using the MERN stack, AgroFlow enables seamless crop management, real-time transportation tracking, retailer access to farm products, and consumer confidence through end-to-end traceability.
 
 🚀 Demo
+
 Watch a complete walkthrough of the platform in this video demo:
 
-🔗 Click here to watch the AgroFlow Demo
+🔗 [Click here to watch the Havenly Demo](https://drive.google.com/file/d/1Zr3hdLCT1w1Cd5ZweObeNIF3t9ovNWX1/view?usp=sharing)
+
 
 👥 User Roles
 Role	Capabilities
